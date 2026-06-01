@@ -13,8 +13,11 @@ I'm a Junior Computer Science student minoring in Artificial Intelligence. Passi
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimAmr05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimAmr05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <!-- Top Languages Card -->
+  <img src="https://my-github-stats-theta-black.vercel.app/api/top-langs?username=KarimAmr05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://my-github-stats-theta-black.vercel.app/api?username=KarimAmr05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph" />
 </div>
 
 ###
@@ -29,12 +32,16 @@ I'm a Junior Computer Science student minoring in Artificial Intelligence. Passi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="css3 logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="javascript logo" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" alt="tailwindcss logo" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="redux logo" />
 </div>
 
 <h3 align="left">Backend</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="nodejs logo" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35" alt="express logo" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" alt="fastapi logo" />
 </div>
 
 <h3 align="left">Programming</h3>
@@ -47,6 +54,7 @@ I'm a Junior Computer Science student minoring in Artificial Intelligence. Passi
 <h3 align="left">Databases</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="postgresql logo" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="35" alt="sqlite logo" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="mongodb logo" />
 </div>
@@ -56,15 +64,23 @@ I'm a Junior Computer Science student minoring in Artificial Intelligence. Passi
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35" alt="numpy logo" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="pandas logo" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="35" alt="matplotlib logo" />
+  <img src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge" height="35" alt="seaborn logo" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35" alt="sklearn logo" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" alt="tensorflow logo" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="pytorch logo" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" height="35" alt="nlp" />
+  <img src="https://img.shields.io/badge/LLMs-6B21A5?style=for-the-badge" height="35" alt="llms" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" height="35" alt="deep learning" />
 </div>
 
 <h3 align="left">Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" alt="postman logo" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux logo" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" alt="aws logo" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35" alt="google cloud logo" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="docker logo" />
 </div>
 
