@@ -6,8 +6,7 @@
 
 ###
 
-I'm a Junior Computer Science student minoring in Artificial Intelligence. Passionate about technology, software development, and problem solving. Currently studying at Misr International University (MIU), continuously learning 
-and building projects to improve my technical skills.
+I'm a Junior Computer Science student minoring in Artificial Intelligence. Passionate about technology, software development, and problem solving. Currently studying at Misr International University (MIU), continuously learning <br> and building projects to improve my technical skills.
 
 ###
 
